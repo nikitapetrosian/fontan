@@ -248,4 +248,9 @@
     });
   });
 
+
 })()
+function zoomIn() {
+  const image = document.getElementById('12')
+  image.style.width = '200%'
+}
